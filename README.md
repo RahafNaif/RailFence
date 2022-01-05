@@ -1,0 +1,2 @@
+# RailFence
+iOS application that encrypt and decrypt plain text using rail fence cypher. It was SWE314 Software Security Engineering course assignment 
